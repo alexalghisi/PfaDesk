@@ -1,11 +1,11 @@
 # PfaDesk
 
-Romanian PFAs guess what to set aside, then meet the Declarația unică with a
-surprise. This is an **educational 2026 sistem-real sketch**: CASS 10% with a
-6-wage floor, CAS 25% at 12/24 wages, income tax 10% after those contributions.
+An inspectable 2026 sketch of Romanian PFA taxation under sistem real: CASS at
+10% with a six-wage floor, CAS at 25% on the 12- and 24-wage tickets, and 10%
+income tax after those contributions.
 
-Not ANAF advice. The numbers are in [`src/lib/pfa.ts`](src/lib/pfa.ts) so a
-reviewer can disagree with the model, not with a black box.
+This is not ANAF advice. The formulas live in [`src/lib/pfa.ts`](src/lib/pfa.ts)
+so a reviewer can contest the model, not a black box.
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
 Playwright**
@@ -25,11 +25,11 @@ and Logs (Mountain View).
 | -------- | --------------------------------------------------------------------------------------- |
 | GitHub   | [github.com/alexalghisi](https://github.com/alexalghisi)                                |
 | LinkedIn | [linkedin.com/in/alghisi](https://www.linkedin.com/in/alghisi)                          |
-| Email    | [alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com) |
+| Email    | [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com)                                   |
 | Location | Cluj-Napoca, Romania · open to remote / EU / US-friendly timezones                      |
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
-[alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com).
+[alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
 
 ---
 

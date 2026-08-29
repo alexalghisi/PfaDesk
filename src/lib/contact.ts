@@ -7,5 +7,5 @@ export const AUTHOR = {
   githubLabel: "github.com/alexalghisi",
   linkedin: "https://www.linkedin.com/in/alghisi",
   linkedinLabel: "linkedin.com/in/alghisi",
-  email: "alessandro@onlineparentingprograms.com",
+  email: "alexalghisi@gmail.com",
 } as const;

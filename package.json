@@ -48,5 +48,5 @@
     "vitest": "^4.1.10"
   },
   "name": "pfadesk",
-  "description": "Educational 2026 Romanian PFA sketch: CAS, CASS, income tax, take-home. Not ANAF advice \u2014 a desk you can fork."
+  "description": "Inspectable 2026 Romanian PFA sketch: CASS, CAS thresholds, income tax. Educational, not ANAF advice."
 }
