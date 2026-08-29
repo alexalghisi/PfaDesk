@@ -1,0 +1,17 @@
+node_modules
+dist
+coverage
+
+# Playwright
+test-results
+playwright-report
+blob-report
+playwright/.cache
+
+# Editor and OS noise
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json
+.cursor
+*.log
