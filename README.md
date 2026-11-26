@@ -4,6 +4,10 @@ An inspectable 2026 sketch of Romanian PFA taxation under sistem real: CASS at
 10% with a six-wage floor, CAS at 25% on the 12- and 24-wage tickets, and 10%
 income tax after those contributions.
 
+**Download:** [latest release](https://github.com/alexalghisi/PfaDesk/releases/latest)
+
+![PfaDesk running](docs/preview.png)
+
 This is not ANAF advice. The formulas live in [`src/lib/pfa.ts`](src/lib/pfa.ts)
 so a reviewer can contest the model, not a black box.
 
